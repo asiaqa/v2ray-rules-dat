@@ -4,6 +4,7 @@ addthisedge.com
 alimama.alicdn.com
 alimama.com
 analytics.google.com
+news-app.abumedia.yql.yahoo.com
 app.chat.xiaomi.net
 bdtj.tagtic.cn
 click.redditmail.com
