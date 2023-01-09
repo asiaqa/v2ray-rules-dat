@@ -3,9 +3,7 @@ addthis.com
 addthisedge.com
 alimama.alicdn.com
 alimama.com
-analytics.google.com
 news-app.abumedia.yql.yahoo.com
-app.chat.xiaomi.net
 bdtj.tagtic.cn
 click.redditmail.com
 ctrip.com
@@ -20,7 +18,6 @@ mx.technolutions.net
 offer.alibaba.com
 pingjs.qq.com
 qlogo.cn
-resolver.msg.xiaomi.net
 s.youtube.com
 sf3-ttcdn-tos.pstatp.com
 t.co
@@ -30,3 +27,4 @@ tongji.baidu.com
 tv.sohu.com
 ue.yeyoucdn.com
 news-app.abumedia.yql.yahoo.com
+acme.zerossl.com
