@@ -29,3 +29,4 @@ ue.yeyoucdn.com
 news-app.abumedia.yql.yahoo.com
 acme.zerossl.com
 ncp-gw-abu.media.yahoo.com
+std.stheadline.com
